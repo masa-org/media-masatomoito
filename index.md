@@ -5,10 +5,22 @@
 layout: default
 ---
 
+2022/01/22
+## 初めてのVaultハンズオンワークショップ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNOIWwQDTwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2021/11/23
 ## Nomad Packとジョブテンプレート
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X75VpznUeiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+2021/08/28
+## Azure Webinar
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RumyrKPCs6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -58,6 +70,13 @@ layout: default
 ## AWSコスト管理のベストプラクティスをTerraformで実装する
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ycbvTZKfGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+2020/10/15
+## Boundaryについてざっくりとご紹介
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toeAPEa1sDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
