@@ -6,6 +6,11 @@ layout: default
 ---
 
 2022/02/22
+## シークレット管理の課題とVaultによるソリューション
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lIvYWALhcfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2022/02/22
 ## Vault Demo: AWSクレデンシャルの動的発行とSSH鍵への動的署名。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nQNNtLXkf2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
